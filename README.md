@@ -49,5 +49,5 @@
  
  
 ## GitHub Stats
-[![Tejasvini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashant-Bhatiya&show_icons=true)](https://github.com/Prashant-Bhatiya/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-Bhatiya&layout=compact)](https://github.com/Prashant-Bhatiya/github-readme-stats)
+[![Tejasvini's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshanmangaroliya&show_icons=true)](https://github.com/Prashant-Bhatiya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanmangaroliya&layout=compact)](https://github.com/Prashant-Bhatiya/github-readme-stats)
