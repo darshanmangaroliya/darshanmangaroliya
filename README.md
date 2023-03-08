@@ -33,5 +33,5 @@
  
  
 ## GitHub Stats
-[![Tejasvini's GitHub stats]https://github-readme-stats.vercel.app/api?username=darshanmangaroliya&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanmangaroliya&layout=compact)]
+[![Tejasvini's GitHub stats]https://github-readme-stats.vercel.app/api?username=darshanmangaroliya&show_icons=true
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanmangaroliya&layout=compact)
